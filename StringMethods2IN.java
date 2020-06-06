@@ -1,7 +1,7 @@
 class split_string {
     public static void main(String[] args) {
-        //Spiting String according to comma(,)
-        String greet = "Hello World,My name is Waldo,How are you?";
+        //Spiting String according to comma (,)
+        String greet = "Hello World,My name is Saransh,How are you?";
         String choice = "CoffeeOrTea";     
         String greeting = "HeLlo WoRld";
         String[] greetings = greeting.split(",");
@@ -9,7 +9,7 @@ class split_string {
         System.out.println(greetings[1]);
         System.out.println(greetings[2]);
         
-        //Substring
+        //Sub String
         //First: Only one argument
         System.out.println(choice.substring(8));
         //Second: Two arguments
@@ -21,7 +21,6 @@ class split_string {
         //Returns new string in which all characters are converted to lower case
         System.out.println(greet.toLowerCase());
         //length
-        System.out.println("The length of greeting is: " + greeting.length());
-        
+        System.out.println("The length of greeting is: " + greeting.length());    
     }
 }
