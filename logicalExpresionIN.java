@@ -1,7 +1,7 @@
 class log_op {
     public static void main(String[] args) {
-        int x = 5;
-        int y = 10;
+        int x = 25;
+        int y = 100;
 
         System.out.println("x is equal to: " + x);
         System.out.println("y is equal to: " + y);
