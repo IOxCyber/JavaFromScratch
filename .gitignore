@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# MetaData Files
+.metadata
+
+# VS Code Specific Files
+.idea
+
 # Log file
 *.log
 
