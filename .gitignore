@@ -2,10 +2,10 @@
 *.class
 
 # MetaData Files
-.metadata
+*.metadata
 
 # VS Code Specific Files
-.idea
+*.idea
 
 # Log file
 *.log
