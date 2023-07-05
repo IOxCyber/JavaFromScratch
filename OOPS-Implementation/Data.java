@@ -30,6 +30,5 @@ class Data{
     int i = 40; //integer
     long l = 40l; //long 
     */
-
 }
 }
